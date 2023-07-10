@@ -22,3 +22,6 @@ It likely uses JDBC (Java Database Connectivity) to establish a connection to th
 
 JFrame : 
 Application is maily designed by using JFrame Java
+
+Please find more details and documentation here :
+https://drive.google.com/drive/folders/12GtEhVJTEOnBpAapbqDk3A8RdqZsHajo?usp=share_link 
