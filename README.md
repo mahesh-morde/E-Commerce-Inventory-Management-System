@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce Inventory Management System
 The "E-COMMERCE" project is a database management system built using Java, Swing, and MySQL. It aims to provide a user-friendly interface for managing inventory operations (Car Showroom) such as adding cars, adding pre-bookings, and drivers, as well as handling delivery tasks.
 
 # Inventory Management
